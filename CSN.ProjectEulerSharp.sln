@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1321
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSN.ProjectEulerSharp.UI", "CSN.ProjectEulerSharp.UI\CSN.ProjectEulerSharp.UI.csproj", "{534C50A6-D76D-4229-89B5-9554C0D0E554}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSN.ProjectEulerSharp.MathProcessor", "CSN.ProjectEulerSharp.MathProcessor\CSN.ProjectEulerSharp.MathProcessor.csproj", "{564AEAB9-6A96-41B5-BB90-096447DAAD6C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{534C50A6-D76D-4229-89B5-9554C0D0E554}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{534C50A6-D76D-4229-89B5-9554C0D0E554}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{534C50A6-D76D-4229-89B5-9554C0D0E554}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{534C50A6-D76D-4229-89B5-9554C0D0E554}.Release|Any CPU.Build.0 = Release|Any CPU
+		{564AEAB9-6A96-41B5-BB90-096447DAAD6C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{564AEAB9-6A96-41B5-BB90-096447DAAD6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{564AEAB9-6A96-41B5-BB90-096447DAAD6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{564AEAB9-6A96-41B5-BB90-096447DAAD6C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2B51C4D4-0651-478F-AE00-F43E712A8837}
+	EndGlobalSection
+EndGlobal
